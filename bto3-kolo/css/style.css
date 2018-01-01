@@ -1,0 +1,58 @@
+body
+{
+	border:50px solid #303;
+	text-align:center;
+	
+}
+.bod
+{
+	height:700px;
+}
+h1
+{
+	color:#303;
+}
+.row
+{
+	margin-left:18%;
+}
+.thumbnail
+{
+	border:1px solid #303;
+}
+img
+{
+	height:500px;
+	
+}
+.btn
+{
+	width:15%;
+	margin:2%;
+}
+.input-group
+{
+	margin: auto;
+	width: 50%;
+}
+
+
+.post
+{
+	width:100px;
+	height:100px;
+	padding:20px;
+	border:solid 1px #666;
+	background-color:#CCC;
+	font-family:Tahoma, Geneva, sans-serif;
+		
+}
+
+
+
+
+
+
+
+
+

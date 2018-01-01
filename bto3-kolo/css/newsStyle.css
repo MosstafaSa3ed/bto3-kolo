@@ -1,0 +1,37 @@
+.brdr
+{
+	height:700px auto;
+	border:50px solid #303;
+	border-top:50px solid rgba(51,0,51, 0.5);
+
+}
+.posts
+{
+	margin:3%;
+	padding:2%;
+	border:rgb(51,0,51) dashed 1px;
+}
+.navbar-default {
+	
+    background-color:rgba(51,0,51, 0.2) !important;
+    border-color: #303;
+}
+.navbar-default .navbar-nav>li>a
+{
+	font-size:24px;
+	font-weight:300;
+	margin-right:15%;
+	color:#D90000 !important;
+}
+
+.form-control
+{
+	margin:1%;
+}
+.btn .btn-primary
+{
+	margin:10px ;
+	width:80px !important;
+	height:50px;
+	
+}
